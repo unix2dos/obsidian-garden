@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"filter问题解决","date":"2025-04-25 23:59:59","date_modify":"2025-05-31 10:30:53","dg-publish":true,"permalink":"/900_Work/filter问题解决/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-25T23:59:59.030+08:00","updated":"2025-05-31T10:31:19.243+08:00"}
+{"aliases":[],"tags":[],"title":"filter问题解决","date":"2025-04-25 23:59:59","date_modify":"2025-05-31 10:30:53","dg-publish":true,"permalink":"/900_Work/filter问题解决/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-25T23:59:59.030+08:00","updated":"2025-05-31T10:31:22.491+08:00"}
 ---
 
 
@@ -112,4 +112,3 @@ SELECT * FROM assets WHERE task_type = 'filter' order by create_time desc LIMIT 
 
 1. 时间太长，估计还有排队
 
-/pub

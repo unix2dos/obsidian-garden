@@ -1,16 +1,18 @@
 ---
-{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-05-31T23:50:12Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-05-31T23:50:12Z"}
+{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-02T01:03:49Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-02T01:03:49Z"}
 ---
 
 
-# 1. MAC 笔记
+# 1 MAC 笔记
 
 - 思源笔记：需要付费，没有 ob 定制化高，开箱即用
 - Tana: 强大纲设计，supertag，有点复杂，分心 70%
 - Lattics: 简单，不如 obsidian
 - trilium-next: 不如 obsidian
 
-# 2. iOS 笔记
+[04_笔记软件思考](04_笔记软件思考.md)
+
+# 2 iOS 笔记
 
 - 话袋 不喜欢 ui，和 flomo 差一点
 - get 笔记 Ai 味道太重
@@ -21,7 +23,7 @@
 - 即我 真难用
 - reflect.app 笔记和 todo 结合 90%
 
-# 3. iOS Todo
+# 3 iOS Todo
 
 - 滴答清单 用不惯，真不如时光序
 - duodo 可以两个人一起完成任务，有点意思 60%

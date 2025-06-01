@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-02T01:03:49Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-02T01:03:49Z"}
+{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-02T01:06:14Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-02T01:06:14Z"}
 ---
 
 
@@ -9,8 +9,6 @@
 - Tana: 强大纲设计，supertag，有点复杂，分心 70%
 - Lattics: 简单，不如 obsidian
 - trilium-next: 不如 obsidian
-
-[04_笔记软件思考](04_笔记软件思考.md)
 
 # 2 iOS 笔记
 

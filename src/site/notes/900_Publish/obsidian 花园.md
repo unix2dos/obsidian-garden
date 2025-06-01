@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T10:09:37Z","date_modify":"2025-06-01T00:02:42Z","dg-publish":true,"permalink":"/900-publish/obsidian/","dgPassFrontmatter":true,"created":"2025-05-31T10:09:37Z","updated":"2025-06-01T00:02:42Z"}
+{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T10:09:37Z","date_modify":"2025-06-01T00:02:42Z","dg-publish":true,"permalink":"/900_Publish/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T10:09:37Z","updated":"2025-06-01T00:02:42Z"}
 ---
 
 

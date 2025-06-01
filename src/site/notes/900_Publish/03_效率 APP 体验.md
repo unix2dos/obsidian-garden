@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-02T01:06:14Z","dg-publish":true,"permalink":"/900-publish/03-app/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-02T01:06:14Z"}
+{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-02T01:06:14Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-02T01:06:14Z"}
 ---
 
 

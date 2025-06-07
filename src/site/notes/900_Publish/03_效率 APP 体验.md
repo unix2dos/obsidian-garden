@@ -1,8 +1,8 @@
 ---
-{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-05T17:59:15Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-05T17:59:15Z"}
+{"aliases":[],"tags":[],"title":"03_效率 APP 体验","date":"2025-05-31T23:43:03Z","date_modify":"2025-06-07T17:20:29Z","dg-publish":true,"permalink":"/900_Publish/03_效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-05-31T23:43:03Z","updated":"2025-06-07T17:20:29Z"}
 ---
 
-关于笔记的思考：[[900_Publish/04_笔记软件思考\|04_笔记软件思考]]
+关于知识管理的思考：[[900_Publish/04_知识管理思考\|知识管理思考]]
 
 # 1 MAC 笔记
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-06-24T15:34:46+08:00","dg-publish":true,"permalink":"/__Publish__/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-06-24T15:34:46+08:00"}
+{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-06-25T19:24:52+08:00","dg-publish":true,"permalink":"/__Publish__/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-06-25T19:24:52+08:00"}
 ---
 
 
@@ -16,3 +16,4 @@
 
 - option + e ：obsidian 打开今天
 - option + w ：chrome 翻译（chrome 设置）
+- option + ~ : Goland 和 cursor 互跳

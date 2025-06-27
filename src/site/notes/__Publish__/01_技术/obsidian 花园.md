@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-07T22:29:47+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-07T22:29:47+08:00"}
+{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-27T13:23:07+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-27T13:23:07+08:00"}
 ---
 
 
@@ -25,6 +25,10 @@
 
 <https://github.com/LetTTGACO/elog>
 
-# 3 参考资料
+# 3 流程
+
+1. 点击模板 <https://github.com/oleeskild/digitalgarden>
+
+# 4 参考资料
 
 - <https://mp.weixin.qq.com/s/pvlfp59XjqftyJVPbEA4tA>

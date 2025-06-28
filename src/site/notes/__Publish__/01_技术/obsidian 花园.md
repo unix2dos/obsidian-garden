@@ -1,9 +1,9 @@
 ---
-{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-28T21:24:09+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-28T21:24:09+08:00"}
+{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-28T21:35:58+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-28T21:35:58+08:00"}
 ---
 
 
-# 1 我的 obsidian 花园 1
+# 1 我的 obsidian 花园
 
 - 域名：<https://obsidian.liuvv.com/>
 - 插件：<https://github.com/oleeskild/Obsidian-Digital-Garden> （1.8K）

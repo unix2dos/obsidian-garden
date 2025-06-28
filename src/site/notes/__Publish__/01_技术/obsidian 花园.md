@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/01/obsidian/","title":"obsidian 花园"}
+{"dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","title":"obsidian 花园"}
 ---
 
 

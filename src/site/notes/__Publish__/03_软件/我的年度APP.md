@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/03/app/","title":"我的年度APP"}
+{"dg-publish":true,"permalink":"/__Publish__/03_软件/我的年度APP/","title":"我的年度APP"}
 ---
 
 

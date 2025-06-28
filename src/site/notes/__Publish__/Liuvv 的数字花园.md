@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/liuvv/","title":"Liuvv 的数字花园","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/__Publish__/Liuvv 的数字花园/","title":"Liuvv 的数字花园","tags":["gardenEntry"]}
 ---
 
 这里放一些不成熟的笔记和想法，按照《卡片笔记写作法》实践，这里属于文献笔记。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/01/docker/","title":"docker 笔记"}
+{"dg-publish":true,"permalink":"/__Publish__/01_技术/docker 笔记/","title":"docker 笔记"}
 ---
 
 

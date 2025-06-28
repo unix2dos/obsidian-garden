@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/01/mac/","title":"Mac 自定义快捷键"}
+{"dg-publish":true,"permalink":"/__Publish__/01_技术/Mac 自定义快捷键/","title":"Mac 自定义快捷键"}
 ---
 
 

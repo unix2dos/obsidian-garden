@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/02/ai/","title":"AI资源备注"}
+{"dg-publish":true,"permalink":"/__Publish__/02_资源/AI资源备注/","title":"AI资源备注"}
 ---
 
 

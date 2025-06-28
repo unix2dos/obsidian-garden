@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/03/app/","title":"效率 APP 体验"}
+{"dg-publish":true,"permalink":"/__Publish__/03_软件/效率 APP 体验/","title":"效率 APP 体验"}
 ---
 
 关于知识管理的思考：[[__Publish__/04_阅读/知识管理思考\|知识管理思考]]

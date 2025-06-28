@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-27T13:23:07+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-27T13:23:07+08:00"}
+{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-28T21:24:09+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-28T21:24:09+08:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 ## 2.1 Quartz
 
 <https://github.com/jackyzha0/quartz> （9K）
-<http://xhslink.com/a/MCQzNQj7eNOdb>
+<http://xhslink.com/a/MCQzNQj7eNOdb> (教程)
 
 ## 2.2 Invio
 

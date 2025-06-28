@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"效率 APP 体验","date":"2025-06-01T07:43:03+08:00","date_modify":"2025-06-26T14:09:10+08:00","dg-publish":true,"permalink":"/__Publish__/03_软件/效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-06-01T07:43:03+08:00","updated":"2025-06-26T14:09:10+08:00"}
+{"dg-publish":true,"permalink":"/publish/03/app/","title":"效率 APP 体验"}
 ---
 
 关于知识管理的思考：[[__Publish__/04_阅读/知识管理思考\|知识管理思考]]

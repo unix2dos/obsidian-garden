@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"obsidian 花园","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-06-28T21:35:58+08:00","dg-publish":true,"permalink":"/__Publish__/01_技术/obsidian 花园/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-06-28T21:35:58+08:00"}
+{"dg-publish":true,"permalink":"/publish/01/obsidian/","title":"obsidian 花园"}
 ---
 
 

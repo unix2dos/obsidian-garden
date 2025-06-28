@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"我的年度APP","categories":["2_write","3_个人记录"],"abbrlink":"d14e768c","date":"2023-01-11T08:00:01+08:00","date_modify":"2025-06-07T22:55:09+08:00","dg-publish":true,"number headings":"None","permalink":"/__Publish__/03_软件/我的年度APP/","dgPassFrontmatter":true}
+{"aliases":[],"tags":[],"title":"我的年度APP","categories":["2_write","3_个人记录"],"abbrlink":"d14e768c","date":"2023-01-11T08:00:01+08:00","date_modify":"2025-06-07T22:55:09+08:00","dg-publish":true,"number headings":"None","permalink":"/__Publish__/03_软件/我的年度APP/","dgPassFrontmatter":true,"created":"2023-01-11T08:00:01+08:00","updated":"2025-06-07T22:55:09+08:00"}
 ---
 
 

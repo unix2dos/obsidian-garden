@@ -1,16 +1,17 @@
 ---
-{"aliases":[],"tags":["gardenEntry"],"title":"Liuvv 的数字花园","date":"2025-06-06T01:40:33+08:00","date_modify":"2025-06-28T23:37:21+08:00","dg-publish":true,"dg-home":true,"permalink":"/Publish/Liuvv 的数字花园/","dgPassFrontmatter":true,"created":"2025-06-06T01:40:33+08:00","updated":"2025-06-28T23:37:21+08:00"}
+{"aliases":[],"tags":["gardenEntry"],"title":"Liuvv 的数字花园","date":"2025-06-06T01:40:33+08:00","date_modify":"2025-06-28T23:42:38+08:00","dg-publish":true,"dg-home":true,"permalink":"/Publish/Liuvv 的数字花园/","dgPassFrontmatter":true,"created":"2025-06-06T01:40:33+08:00","updated":"2025-06-28T23:42:38+08:00"}
 ---
 
 这里放一些不成熟的笔记和想法，按照《卡片笔记写作法》实践，这里属于文献笔记。
-后面这里内容成熟后，会将内容转移到永久笔记里（blog）。参考我的： [[Publish/04_阅读/知识管理思考\|知识管理思考]]
+后面这里内容成熟后，会将内容转移到永久笔记里（blog）。参考我的 [[Publish/04_阅读/知识管理思考\|知识管理思考]]。
 
 技术卡片笔记：[[Publish/01_技术/技术卡片笔记\|每日技术卡片笔记]]
 
 # 1 花园
 
 花园更新记录： <https://vercel.com/unix2dos-projects/obsidian-garden/deployments>
-花园实现：[[Publish/01_技术/obsidian 花园实现\|obsidian 花园技术实现]]
+
+花园实现：[[Publish/01_技术/obsidian 花园实现\|obsidian 花园实现]]
 
 # 2 我的 APP 和阅读
 

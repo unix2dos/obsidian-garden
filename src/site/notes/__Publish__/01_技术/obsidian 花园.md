@@ -3,7 +3,7 @@
 ---
 
 
-# 1 我的 obsidian 花园
+# 1 我的 obsidian 花园 1
 
 - 域名：<https://obsidian.liuvv.com/>
 - 插件：<https://github.com/oleeskild/Obsidian-Digital-Garden> （1.8K）

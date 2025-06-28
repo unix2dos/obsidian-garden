@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"Liuvv 的数字花园","date":"2025-06-06T01:40:33+08:00","date_modify":"2025-06-28T23:06:33+08:00","dg-publish":true,"permalink":"/__Publish__/Liuvv 的数字花园/","dgPassFrontmatter":true,"created":"2025-06-06T01:40:33+08:00","updated":"2025-06-28T23:06:33+08:00"}
+{"dg-publish":true,"aliases":[],"tags":[],"title":"Liuvv 的数字花园","date":"2025-06-06T01:40:33+08:00","date_modify":"2025-06-28T23:31:51+08:00","permalink":"/__Publish__/Liuvv 的数字花园/","dgPassFrontmatter":true,"created":"2025-06-06T01:40:33+08:00","updated":"2025-06-28T23:31:51+08:00"}
 ---
 
 这里放一些不成熟的笔记和想法，按照《卡片笔记写作法》实践，这里属于文献笔记。

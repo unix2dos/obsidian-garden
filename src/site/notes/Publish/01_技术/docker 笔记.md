@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"docker 笔记","date":"2025-06-28T21:49:46+08:00","date_modify":"2025-06-28T22:01:41+08:00","dg-publish":true,"permalink":"/Publish/01_技术/docker 笔记/","dgPassFrontmatter":true,"created":"2025-06-28T21:49:46+08:00","updated":"2025-06-28T22:01:41+08:00"}
+{"aliases":[],"tags":[],"title":"docker 笔记","date":"2025-06-28T21:49:46+08:00","date_modify":"2025-07-02T19:40:29+08:00","dg-publish":true,"permalink":"/Publish/01_技术/docker 笔记/","dgPassFrontmatter":true,"created":"2025-06-28T21:49:46+08:00","updated":"2025-07-02T19:40:29+08:00"}
 ---
 
 
@@ -31,3 +31,11 @@ CMD ["redis-server"]
 - 看冒号 (:) 左边的部分：
 	- 如果它包含 /、./、../ (在 Linux/macOS) 或 \ (在 Windows)，那么它一定是 Bind Mount。 因为你在指定一个明确的、存在于宿主机文件系统上的路径。
 	- 如果它只是一个简单的字符串，不包含任何路径分隔符，那么它一定是 Volume。 因为你只是在给 Docker 一个名字，让 Docker 自己去管理这个存储空间。
+
+# 2. 其他
+
+## 2.1 指定 IP 执行命令
+
+```bash
+DOCKER_HOST=ssh://root@10.133.0.21 docker ps
+```

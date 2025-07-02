@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":["gardenEntry"],"title":"Liuvv 的数字花园","date":"2025-06-06T01:40:33+08:00","date_modify":"2025-06-28T23:49:31+08:00","dg-publish":true,"dg-home":true,"permalink":"/Publish/Liuvv 的数字花园/","dgPassFrontmatter":true,"created":"2025-06-06T01:40:33+08:00","updated":"2025-06-28T23:49:31+08:00"}
+{"aliases":[],"tags":["gardenEntry"],"title":"Liuvv 的数字花园","date":"2025-06-06T01:40:33+08:00","date_modify":"2025-07-02T19:42:36+08:00","dg-publish":true,"dg-home":true,"permalink":"/Publish/Liuvv 的数字花园/","dgPassFrontmatter":true,"created":"2025-06-06T01:40:33+08:00","updated":"2025-07-02T19:42:36+08:00"}
 ---
 
 这里放一些不成熟的笔记和想法，按照《卡片笔记写作法》实践，这里属于文献笔记。
@@ -21,6 +21,6 @@
 - [[Publish/01_技术/Mac 自定义快捷键\|Mac 自定义快捷键]]
 
 阅读榜单：
--  [[Publish/04_阅读/2025阅读榜单\|04_阅读/2025阅读榜单]]
--  [[Publish/04_阅读/2024阅读榜单\|04_阅读/2024阅读榜单]]
--  [[Publish/04_阅读/2023阅读榜单\|04_阅读/2023阅读榜单]]
+-  [[Publish/04_阅读/2025阅读榜单\|2025阅读榜单]]
+-  [[Publish/04_阅读/2024阅读榜单\|2024阅读榜单]]
+-  [[Publish/04_阅读/2023阅读榜单\|2023阅读榜单]]

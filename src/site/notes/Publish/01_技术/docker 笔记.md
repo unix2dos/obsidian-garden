@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"docker 笔记","date":"2025-06-28T21:49:46+08:00","date_modify":"2025-07-02T19:40:29+08:00","dg-publish":true,"permalink":"/Publish/01_技术/docker 笔记/","dgPassFrontmatter":true,"created":"2025-06-28T21:49:46+08:00","updated":"2025-07-02T19:40:29+08:00"}
+{"aliases":[],"tags":[],"title":"docker 笔记","date":"2025-06-28T21:49:46+08:00","date_modify":"2025-07-02T19:55:35+08:00","dg-publish":true,"permalink":"/Publish/01_技术/docker 笔记/","dgPassFrontmatter":true,"created":"2025-06-28T21:49:46+08:00","updated":"2025-07-02T19:55:35+08:00"}
 ---
 
 
@@ -35,6 +35,8 @@ CMD ["redis-server"]
 # 2. 其他
 
 ## 2.1 指定 IP 执行命令
+
+`DOCKER_HOST` 是 Docker 的一个环境变量，用于指定 Docker 客户端要连接的 Docker 守护进程（daemon）的地址。
 
 ```bash
 DOCKER_HOST=ssh://root@10.133.0.21 docker ps

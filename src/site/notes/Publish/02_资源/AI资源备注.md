@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-06-24T15:34:51+08:00","dg-publish":true,"permalink":"/Publish/02_资源/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-06-24T15:34:51+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-07-06T16:36:16+08:00","dg-publish":true,"permalink":"/Publish/02_资源/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-07-06T16:36:16+08:00"}
 ---
 
 
@@ -19,5 +19,9 @@
 <https://artificialanalysis.ai/models>
 
 备份榜单
-
 [https://openlm.ai/chatbot-arena/](https://openlm.ai/chatbot-arena/)
+
+# 2. 常查榜单
+
+- 模型排行：[https://lmarena.ai/leaderboard?utm_campaign=hf_banner](https://lmarena.ai/leaderboard?utm_campaign=hf_banner)
+- 使用排行：[https://openrouter.ai/rankings](https://openrouter.ai/rankings)

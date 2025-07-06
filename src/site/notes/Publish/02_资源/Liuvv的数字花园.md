@@ -11,7 +11,7 @@
 
 花园更新记录： <https://vercel.com/unix2dos-projects/obsidian-garden/deployments>
 
-花园实现：[[Publish/01_技术/obsidian 花园实现\|obsidian 花园实现]]
+花园实现：[[Publish/01_技术/obsidian花园实现\|obsidian 花园实现]]
 
 # 2 我的 APP 和阅读
 

@@ -23,6 +23,7 @@
 - muses 感觉还行，80%
 - 即我 真难用
 - reflect.app 笔记和 todo 结合 90%
+- bujo 子弹笔记不好用 128元
 
 # 3 iOS Todo
 

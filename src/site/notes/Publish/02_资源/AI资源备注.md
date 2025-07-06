@@ -1,16 +1,14 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-07-06T16:36:16+08:00","dg-publish":true,"permalink":"/Publish/02_资源/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-07-06T16:36:16+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-07-06T16:42:18+08:00","dg-publish":true,"permalink":"/Publish/02_资源/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-07-06T16:42:18+08:00"}
 ---
 
 
 # 1 榜单
 
 视频排行榜
-
 [https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard](https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard)
 
 图像排行榜
-
 [https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard](https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard)
 
 大语言模型榜单

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"MBTI","date":"2025-07-06T22:42:26+08:00","date_modify":"2025-07-06T22:44:24+08:00","dg-publish":true,"permalink":"/Publish/05_杂项/MBTI/","dgPassFrontmatter":true,"created":"2025-07-06T22:42:26+08:00","updated":"2025-07-06T22:44:24+08:00"}
+{"aliases":[],"tags":[],"title":"MBTI","date":"2025-07-06T22:42:26+08:00","date_modify":"2025-07-06T22:48:22+08:00","dg-publish":true,"permalink":"/Publish/05_杂项/MBTI/","dgPassFrontmatter":true,"created":"2025-07-06T22:42:26+08:00","updated":"2025-07-06T22:48:22+08:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 # SN 认知方式，怎么看世界
 
-S 是具体，N 是抽象
+S 是具体，细节控，N 是抽象
 看电影时，你是更关注演员的服装、场景细节和具体情节 (S)，还是更喜欢解读电影的象征意义和导演想表达什么 (N)？
 
 # TF 决策方式，怎么做决定

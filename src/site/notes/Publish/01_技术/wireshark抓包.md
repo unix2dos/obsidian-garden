@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"wireshark抓包","date":"2025-07-11T21:25:59+08:00","date_modify":"2025-07-12T12:11:35+08:00","dg-publish":true,"permalink":"/Publish/01_技术/wireshark抓包/","dgPassFrontmatter":true,"created":"2025-07-11T21:25:59+08:00","updated":"2025-07-12T12:11:35+08:00"}
+{"aliases":[],"tags":[],"title":"wireshark抓包","date":"2025-07-11T21:25:59+08:00","date_modify":"2025-07-12T12:44:44+08:00","dg-publish":true,"permalink":"/Publish/01_技术/wireshark抓包/","dgPassFrontmatter":true,"created":"2025-07-11T21:25:59+08:00","updated":"2025-07-12T12:44:44+08:00"}
 ---
 
 
@@ -80,6 +80,27 @@ SSLKEYLOGFILE=~/Desktop/sslkeylog.log /Applications/Google\ Chrome.app/Contents/
 - 如果配置成功，你现在应该能看到原本被加密的 HTTPS 流量被解密成了 HTTP/2 或 HTTP/1.1 协议！你将能看到清晰的 `GET`, `POST` 请求。
 - 点击一个数据包，在 "Packet Details" (数据包详情) 窗格中，除了 "Transport Layer Security" 这一层，下面会出现一个新的 "Decrypted TLS" 标签页，里面就是解密后的应用数据。
 
+## 2.2 观看 https 包的技巧
+
+一个好方法是看 "Info" 列，找到一个 `GET /` 请求（这是请求主页），它下面紧跟着的那个 `200 OK` 就是目标。
+
 # 3. 设置
 
+## 3.1 显示绝对时间
+
 改时间格式：View-> Time Display Format -> Date and Time of Day （1970-01-01 01:02:03.123456）
+
+## 3.2 自定义列，让域名直接显示在主列表
+
+默认的列（No., Time, Source, Destination...）对看域名很不友好。我们可以手动添加一个 “Host” 列，让域名一目了然。
+
+1. **右键点击任意列的标题** (比如在 "Protocol" 列上右键)。
+2. 选择 **Column Preferences...**。
+3. 在弹出的窗口左下角，点击 **“+”** 号添加一个新列。
+4. 给新列起个名字，比如 "Host"。双击 "Title" 区域即可修改。
+5. 关键一步：在新列的 "Type" 栏，从下拉菜单中选择 **"Custom"**。
+6. 在最右边的 "Fields" 栏，输入 `http.host`。**这个是 HTTP Host 头的字段名**。
+7. 点击 OK 保存。
+
+**效果**:
+现在你的主窗口包列表里多了一列 “Host”。只要是 HTTP 请求包，这一列就会直接显示出它访问的域名！你甚至可以点击列标题来按域名排序。

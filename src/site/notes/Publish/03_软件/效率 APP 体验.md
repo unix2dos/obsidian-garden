@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"效率 APP 体验","date":"2025-06-01T07:43:03+08:00","date_modify":"2025-07-09T21:48:27+08:00","dg-publish":true,"permalink":"/Publish/03_软件/效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-06-01T07:43:03+08:00","updated":"2025-07-09T21:48:27+08:00"}
+{"aliases":[],"tags":[],"title":"效率 APP 体验","date":"2025-06-01T07:43:03+08:00","date_modify":"2025-07-13T12:07:48+08:00","dg-publish":true,"permalink":"/Publish/03_软件/效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-06-01T07:43:03+08:00","updated":"2025-07-13T12:07:48+08:00"}
 ---
 
 关于知识管理的思考：[[Publish/04_阅读/知识管理思考\|知识管理思考]]
@@ -29,6 +29,7 @@
 # 3 iOS Todo
 
 - 滴答清单 用不惯，真不如时光序
+- Todo 清单，168 元，简约。70%
 - duodo 可以两个人一起完成任务，有点意思 60%
 - 1step 意淫开发玩家
 - pendo 一根线设计，ui 简单

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-07-19T16:16:26+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-07-19T16:16:26+08:00"}
+{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-07-20T22:07:01+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-07-20T22:07:01+08:00"}
 ---
 
 
@@ -24,5 +24,10 @@
 	- option + 3: 全屏
 	- cmd + l : 切换 task 状态
 	- Cmd+Option+I : 打开控制台
-- Goland 和 cursor 互跳
+- goland 和 cursor 互跳 (废弃)
 	- option + ~ :
+-  vscode
+	- option + z : 自动换行
+	- option + = ：cursor 插件对齐
+	- option + q: 下一个相等字符 (可以放弃)
+	- option + w : 全部相等字符

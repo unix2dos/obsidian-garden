@@ -2,7 +2,7 @@
 {"aliases":[],"tags":[],"title":"效率 APP 体验","date":"2025-06-01T07:43:03+08:00","date_modify":"2025-07-13T12:07:48+08:00","dg-publish":true,"permalink":"/Publish/02_资源软件/效率 APP 体验/","dgPassFrontmatter":true,"created":"2025-06-01T07:43:03+08:00","updated":"2025-07-13T12:07:48+08:00"}
 ---
 
-关于知识管理的思考：[[Publish/03_知识阅读/知识管理思考\|知识管理思考]]
+关于知识管理的思考：[[Publish/02_资源软件/知识管理思考\|知识管理思考]]
 
 # 1 MAC 笔记
 

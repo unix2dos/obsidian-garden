@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-07-21T21:05:42+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-07-21T21:05:42+08:00"}
+{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-07-25T14:57:23+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-07-25T14:57:23+08:00"}
 ---
 
 
@@ -31,6 +31,8 @@
 	- option + = ：cursor 插件对齐
 	- option + q: 下一个相等字符 (可以放弃)
 	- option + w : 全部相等字符
+	- shift + cmd + - 全部折叠
+	- shift + cmd + = 全部展开
 - tmux
 	- option + f : 快速复制
 	- option + j : 快速跳转

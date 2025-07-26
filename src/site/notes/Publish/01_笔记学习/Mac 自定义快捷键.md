@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-07-25T14:57:23+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-07-25T14:57:23+08:00"}
+{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-07-26T14:40:05+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-07-26T14:40:05+08:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 - chrome
 	- option + w ： 翻译（chrome 设置）
 - obsidian
-	- option + w : 全部关闭
+	- option + w : 强制关闭
 	- option + e: 打开今天
 	- option + 1：左侧
 	- option + 2 右侧

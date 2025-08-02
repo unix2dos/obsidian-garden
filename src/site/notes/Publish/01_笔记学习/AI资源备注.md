@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-07-31T00:08:11+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-07-31T00:08:11+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-08-01T00:00:08+08:00","dg-publish":true,"permalink":"/Publish/01_笔记学习/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-08-01T00:00:08+08:00"}
 ---
 
 
@@ -27,6 +27,4 @@
 
 # 3. 修图
 
-榜单：<https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard&input=image>
-
->
+榜单：<https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard-image&input=image>

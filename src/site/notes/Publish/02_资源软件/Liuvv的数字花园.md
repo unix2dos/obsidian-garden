@@ -15,14 +15,14 @@
 
 花园更新记录： <https://vercel.com/unix2dos-projects/obsidian-garden/deployments>
 
-花园实现：[[Publish/01_笔记学习/obsidian花园实现\|obsidian 花园实现]]
+花园实现：[[Publish/01_笔记备注/obsidian花园实现\|obsidian 花园实现]]
 
 # 2 我的 APP 和阅读
 
 年度 APP：
 - [[Publish/02_资源软件/我的年度APP\|我的年度APP]]
 - [[Publish/02_资源软件/买断和订阅的软件\|买断和订阅的软件]]
-- [[Publish/01_笔记学习/Mac 自定义快捷键\|Mac 自定义快捷键]]
+- [[Publish/01_笔记备注/Mac 自定义快捷键\|Mac 自定义快捷键]]
 
 阅读榜单：
 -  [[Publish/03_知识阅读/2025阅读榜单\|2025阅读榜单]]

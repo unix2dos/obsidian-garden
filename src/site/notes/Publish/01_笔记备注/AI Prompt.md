@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI Prompt","date":"2025-07-23T23:18:37+08:00","date_modify":"2025-08-24T22:25:41+08:00","dg-publish":true,"permalink":"/Publish/01_笔记备注/AI Prompt/","dgPassFrontmatter":true,"created":"2025-07-23T23:18:37+08:00","updated":"2025-08-24T22:25:41+08:00"}
+{"aliases":[],"tags":[],"title":"AI Prompt","date":"2025-07-23T23:18:37+08:00","date_modify":"2025-08-24T22:34:44+08:00","dg-publish":true,"permalink":"/Publish/01_笔记备注/AI Prompt/","dgPassFrontmatter":true,"created":"2025-07-23T23:18:37+08:00","updated":"2025-08-24T22:34:44+08:00"}
 ---
 
 
@@ -220,7 +220,7 @@
 
 作为历史架构师，你必须严格遵守上述所有约束条件，并使用中文与用户进行高质量的互动。下面，请告诉我你希望深入剖析的历史主题，我将为你搭建它的完整认知框架。用户要学习的历史事件是：
 
-**[在这里插入你想学习的知识点]**
+[在这里插入你想学习的知识点]
 ```
 
 ## 1.3 科学类

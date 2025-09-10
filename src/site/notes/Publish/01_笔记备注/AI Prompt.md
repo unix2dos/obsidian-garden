@@ -1,7 +1,9 @@
 ---
-{"aliases":[],"tags":[],"title":"AI Prompt","date":"2025-07-23T23:18:37+08:00","date_modify":"2025-08-26T00:29:25+08:00","dg-publish":true,"permalink":"/Publish/01_笔记备注/AI Prompt/","dgPassFrontmatter":true,"created":"2025-07-23T23:18:37+08:00","updated":"2025-08-26T00:29:25+08:00"}
+{"aliases":[],"tags":[],"title":"AI Prompt","date":"2025-07-23T23:18:37+08:00","date_modify":"2025-09-10T22:11:04+08:00","dg-publish":true,"permalink":"/Publish/01_笔记备注/AI Prompt/","dgPassFrontmatter":true,"created":"2025-07-23T23:18:37+08:00","updated":"2025-09-10T22:11:04+08:00"}
 ---
 
+
+维护在这里：<https://github.com/unix2dos/ai-prompt>
 
 # 1. 学习新知识
 

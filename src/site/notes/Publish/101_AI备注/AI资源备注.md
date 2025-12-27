@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-09-01T11:23:56+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-09-01T11:23:56+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2025-12-26T02:03:55+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2025-12-26T02:03:55+08:00"}
 ---
 
 
@@ -21,6 +21,7 @@
 - 模型排行：[https://lmarena.ai/leaderboard?utm_campaign=hf_banner](https://lmarena.ai/leaderboard?utm_campaign=hf_banner)
 - 最后的测试：<https://lastexam.ai/>
 - 使用排行：[https://openrouter.ai/rankings](https://openrouter.ai/rankings)
+- Code 排名：<https://lmarena.ai/zh/leaderboard?utm_campaign=hf_banner>
 
 # 2. 资源
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-01-02T20:06:26+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-01-02T20:06:26+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-01-05T00:07:16+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-01-05T00:07:16+08:00"}
 ---
 
 
@@ -18,9 +18,8 @@
 ## 1.2 常查榜单
 
 - 总体排名：<https://artificialanalysis.ai/models>
-- 模型排行：[https://lmarena.ai/leaderboard?utm_campaign=hf_banner](https://lmarena.ai/leaderboard?utm_campaign=hf_banner)
+- openroute 使用排行：[https://openrouter.ai/rankings](https://openrouter.ai/rankings)
 - 最后的测试：<https://lastexam.ai/>
-- 使用排行：[https://openrouter.ai/rankings](https://openrouter.ai/rankings)
 - 写代码 排名：<https://lmarena.ai/zh/leaderboard?utm_campaign=hf_banner>
 - opencode 免费：<https://opencode.ai/docs/zen/#pricing>
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-01-18T21:10:31+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-01-18T21:10:31+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-01-23T17:39:37+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-01-23T17:39:37+08:00"}
 ---
 
 
@@ -27,6 +27,9 @@
 ## 1.3 Code
 
 - skills: <https://skillsmp.com/>
+- Codex 使用情况：<https://chatgpt.com/codex/settings/usage>
+- Cursor 使用情况：<https://cursor.com/cn/dashboard?tab=usage>
+- AMP 使用情况：<https://ampcode.com/settings>
 
 # 2. 资源
 

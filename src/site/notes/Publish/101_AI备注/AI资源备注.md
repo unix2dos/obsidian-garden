@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-01-25T12:11:25+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-01-25T12:11:25+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-01-27T16:29:00+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-01-27T16:29:00+08:00"}
 ---
 
 
@@ -22,7 +22,6 @@
 - 最后的测试：<https://lastexam.ai/>
 - 写代码排名：<https://lmarena.ai/zh/leaderboard?utm_campaign=hf_banner>，拉到下面看 coding
 - 写代码排名 2：<https://lmarena.ai/zh/leaderboard/webdev>
-- opencode 免费：<https://opencode.ai/docs/zen/#pricing>
 
 ## 1.3 Code
 
@@ -39,10 +38,6 @@
 - 反重力
 	- 多个 Pro 账号
 - Opencode
-	- 可以使用免费模型和 Openrouter
-
-# 2. 资源
-
-## 2.1 免费使用
-
-<https://qwq32.com/>
+	- 免费模型： <https://opencode.ai/docs/zen/#pricing>
+- Openrouter
+	- 免费模型：<https://openrouter.ai/collections/free-models>

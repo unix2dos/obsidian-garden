@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-03-20T14:33:11+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-03-20T14:33:11+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-03-24T12:20:21+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-03-24T12:20:21+08:00"}
 ---
 
 
@@ -29,9 +29,7 @@
 	- 多个 Pro 账号
 - Opencode
 	- 免费模型： <https://opencode.ai/docs/zen/#pricing>
-	- opencode/kimi-k2.5-free
-	- opencode/glm-4.7-free
-	- opencode/minimax-m2.1-free
+	- opencode/minimax-m2.5-free
 
 ## 1.3 常用榜单
 

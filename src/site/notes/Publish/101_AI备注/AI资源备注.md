@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-06-26T13:41:44+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-06-26T13:41:44+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-04T00:03:41+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-07-04T00:03:41+08:00"}
 ---
 
 
@@ -45,4 +45,3 @@
 - openroute 使用排行：[https://openrouter.ai/rankings](https://openrouter.ai/rankings)
 - 最后的测试：<https://lastexam.ai/>
 - 写代码排名：<https://lmarena.ai/zh/leaderboard?utm_campaign=hf_banner>，不靠谱
-- 写代码排名 2：<https://lmarena.ai/zh/leaderboard/webdev>

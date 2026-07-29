@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-04T00:03:41+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-07-04T00:03:41+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-25T17:29:59+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-07-25T17:29:59+08:00"}
 ---
 
 
@@ -17,21 +17,16 @@
 ## 1.3 平常使用
 
 - Codex 使用情况：<https://chatgpt.com/codex/settings/usage>
-	- 月 $20
 - Opencode Go
 	- 使用情况： <https://opencode.ai/workspace/wrk_01KDNHRRYAPS6N8MY89HZ6GXQ1/usage>
-	- Go 模型：<https://opencode.ai/docs/zh-cn/go/#%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6>
-	- Zen 模型： <https://opencode.ai/docs/zen/#%E5%AE%9A%E4%BB%B7>
+	- Go 使用限制：<https://opencode.ai/docs/zh-cn/go/#%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6>
+	- Zen Free： <https://opencode.ai/docs/zen/#%E5%AE%9A%E4%BB%B7>
 - Claude 使用情况：<https://claude.ai/settings/usage>
-	- 月 $20
 - Cursor 使用情况：<https://cursor.com/cn/dashboard?tab=spending>
-	- 月 $20
 - AMP 使用情况：<https://ampcode.com/settings>
-	- 日 $10
 - OpenRoute 使用情况：<https://openrouter.ai/settings/credits>
 	- 免费模型：<https://openrouter.ai/collections/free-models>
 - 反重力
-	- 多个 Pro 账号
 
 ## 1.3 常用榜单
 

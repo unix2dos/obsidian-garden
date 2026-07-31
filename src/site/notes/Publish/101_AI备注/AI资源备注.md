@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-25T17:29:59+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-07-25T17:29:59+08:00"}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-31T17:35:18+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-07-31T17:35:18+08:00","dg-note-properties":{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-31T17:35:18+08:00"}}
 ---
 
 
@@ -7,20 +7,17 @@
 
 ## 1.1 常查榜单
 
-- skills
-	- [skills.sh](https://www.skills.sh/)
-	- <https://skillsmp.com/>
 - 模型排名：<https://artificialanalysis.ai/models>
 - Code Agent: <https://artificialanalysis.ai/agents/coding-agents>
 - Deepswe: <https://deepswe.datacurve.ai/>
 
-## 1.3 平常使用
+## 1.2 平常使用
 
-- Codex 使用情况：<https://chatgpt.com/codex/settings/usage>
 - Opencode Go
-	- 使用情况： <https://opencode.ai/workspace/wrk_01KDNHRRYAPS6N8MY89HZ6GXQ1/usage>
-	- Go 使用限制：<https://opencode.ai/docs/zh-cn/go/#%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6>
+	- 我的使用情况： <https://opencode.ai/workspace/wrk_01KDNHRRYAPS6N8MY89HZ6GXQ1/usage>
+	- 模型使用限制：<https://opencode.ai/docs/zh-cn/go/#%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6>
 	- Zen Free： <https://opencode.ai/docs/zen/#%E5%AE%9A%E4%BB%B7>
+- Codex 使用情况：<https://chatgpt.com/codex/settings/usage>
 - Claude 使用情况：<https://claude.ai/settings/usage>
 - Cursor 使用情况：<https://cursor.com/cn/dashboard?tab=spending>
 - AMP 使用情况：<https://ampcode.com/settings>
@@ -28,7 +25,12 @@
 	- 免费模型：<https://openrouter.ai/collections/free-models>
 - 反重力
 
-## 1.3 常用榜单
+## 1.3 Skills
+
+- [skills.sh](https://www.skills.sh/)
+- <https://skillsmp.com/>
+
+## 1.4 常用榜单
 
 - 视频排行榜 [https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard](https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard)
 - 图像排行榜 <https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard-image&input=image>

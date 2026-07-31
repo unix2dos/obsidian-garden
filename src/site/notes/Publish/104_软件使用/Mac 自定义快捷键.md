@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-08-26T23:23:09+08:00","dg-publish":true,"permalink":"/Publish/104_软件使用/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-08-26T23:23:09+08:00"}
+{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-08-26T23:23:09+08:00","dg-publish":true,"permalink":"/Publish/104_软件使用/Mac 自定义快捷键/","dgPassFrontmatter":true,"created":"2025-06-24T10:05:37+08:00","updated":"2025-08-26T23:23:09+08:00","dg-note-properties":{"aliases":[],"tags":[],"title":"Mac 自定义快捷键","date":"2025-06-24T10:05:37+08:00","date_modify":"2025-08-26T23:23:09+08:00"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"收藏的blog","date":"2025-07-06T19:51:46+08:00","date_modify":"2025-07-20T02:18:31+08:00","dg-publish":true,"permalink":"/Publish/102_资源备注/收藏的blog/","dgPassFrontmatter":true,"created":"2025-07-06T19:51:46+08:00","updated":"2025-07-20T02:18:31+08:00"}
+{"aliases":[],"tags":[],"title":"收藏的blog","date":"2025-07-06T19:51:46+08:00","date_modify":"2025-07-20T02:18:31+08:00","dg-publish":true,"permalink":"/Publish/102_资源备注/收藏的blog/","dgPassFrontmatter":true,"created":"2025-07-06T19:51:46+08:00","updated":"2025-07-20T02:18:31+08:00","dg-note-properties":{"aliases":[],"tags":[],"title":"收藏的blog","date":"2025-07-06T19:51:46+08:00","date_modify":"2025-07-20T02:18:31+08:00"}}
 ---
 
 

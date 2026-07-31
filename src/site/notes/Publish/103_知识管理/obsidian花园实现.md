@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"obsidian花园实现","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-07-25T23:43:43+08:00","dg-publish":true,"permalink":"/Publish/103_知识管理/obsidian花园实现/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-07-25T23:43:43+08:00"}
+{"aliases":[],"tags":[],"title":"obsidian花园实现","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-07-25T23:43:43+08:00","dg-publish":true,"permalink":"/Publish/103_知识管理/obsidian花园实现/","dgPassFrontmatter":true,"created":"2025-05-31T18:09:37+08:00","updated":"2025-07-25T23:43:43+08:00","dg-note-properties":{"aliases":[],"tags":[],"title":"obsidian花园实现","date":"2025-05-31T18:09:37+08:00","date_modify":"2025-07-25T23:43:43+08:00"}}
 ---
 
 

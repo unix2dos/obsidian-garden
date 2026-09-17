@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-31T17:35:18+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-07-31T17:35:18+08:00","dg-note-properties":{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-07-31T17:35:18+08:00"}}
+{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-08-27T16:49:54+08:00","dg-publish":true,"permalink":"/Publish/101_AI备注/AI资源备注/","dgPassFrontmatter":true,"created":"2025-06-01T07:48:51+08:00","updated":"2026-08-27T16:49:54+08:00","dg-note-properties":{"aliases":[],"tags":[],"title":"AI资源备注","date":"2025-06-01T07:48:51+08:00","date_modify":"2026-08-27T16:49:54+08:00"}}
 ---
 
 
@@ -10,6 +10,7 @@
 - 模型排名：<https://artificialanalysis.ai/models>
 - Code Agent: <https://artificialanalysis.ai/agents/coding-agents>
 - Deepswe: <https://deepswe.datacurve.ai/>
+- skill 排名 [skills.sh](https://www.skills.sh/)
 
 ## 1.2 平常使用
 
@@ -25,12 +26,22 @@
 	- 免费模型：<https://openrouter.ai/collections/free-models>
 - 反重力
 
-## 1.3 Skills
+## 1.3 目前使用的 Agent 工具
 
-- [skills.sh](https://www.skills.sh/)
+- codex mac $200+  $100
+- cusor cli $20
+- 反重力 cli + gemini 网页 $20
+- opencode $10
+- workbuddy free
+- ampcode 免费，可以绑定上 codex 订阅，还不错
+
+# 2. 备注
+
+## 2.1 Skills
+
 - <https://skillsmp.com/>
 
-## 1.4 常用榜单
+## 2.2 常用榜单
 
 - 视频排行榜 [https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard](https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard)
 - 图像排行榜 <https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard-image&input=image>
